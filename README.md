@@ -91,3 +91,25 @@ Maps every Starbucks location in Korea by city/district.
 Marker size and color indicate the number of stores (calculated by counting unique store codes).
 
 Highlights which districts have the highest concentration of Starbucks outlets.
+
+
+
+![image](https://github.com/user-attachments/assets/61b0d687-c75a-43f5-a136-02c64ff3c769)
+
+6️⃣ Compare menus by calorie content – use marker size to encode calories (larger markers for higher‑calorie items).
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/cede3d72-7a42-46ac-8284-0203b53b89c7)
+
+7️⃣ Box plot of total calories per menu within each category – display the distribution of summed calories at the menu level.
+
+
+
+
+![image](https://github.com/user-attachments/assets/799060a7-9cfa-40e6-a326-70697babe932)
+
+8️⃣ Menu‑level comparison of caffeine content against an 80 mg threshold – classify each item as above or below 80 mg.
+
