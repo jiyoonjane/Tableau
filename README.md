@@ -24,7 +24,6 @@ This repository contains a Tableau workbook that investigates where and when our
    - Reveals when profit gaps first emerged and how they’ve widened over time  
    - Shows seasonal peaks in sales (e.g., year‑end spikes) versus flat or negative profit growth in certain months
 
----
 
 ## Key Takeaways
 
@@ -39,6 +38,8 @@ This repository contains a Tableau workbook that investigates where and when our
 - **When did profit shortfalls begin?**  
   - From late 2017 onward, cumulative profit growth lags behind sales growth—especially in Q1 and Q3.  
   - Despite robust holiday sales in December, January profits dip, indicating rising costs or discounting pressures.
+ 
+    ---
  
   # Starbucks Korea Menu & Store Dashboard
 This Tableau dashboard combines nutritional analysis of Starbucks products with a geographic overview of store distribution in South Korea.
