@@ -1,4 +1,4 @@
-# KR Tableau
+# KR Tableau project
 # Company Sales & Profit Dashboard (Tableau)
 
 This repository contains a Tableau workbook that investigates where and when our company is encountering profit shortfalls, and which products and regions are underperforming in sales and margins.
@@ -39,3 +39,50 @@ This repository contains a Tableau workbook that investigates where and when our
 - **When did profit shortfalls begin?**  
   - From late 2017 onward, cumulative profit growth lags behind sales growth—especially in Q1 and Q3.  
   - Despite robust holiday sales in December, January profits dip, indicating rising costs or discounting pressures.
+ 
+  # Starbucks Korea Menu & Store Dashboard
+This Tableau dashboard combines nutritional analysis of Starbucks products with a geographic overview of store distribution in South Korea.
+
+![image](https://github.com/user-attachments/assets/75c3cf19-06d6-4707-b7ca-42f448d295e5)
+
+1️⃣ Category‑Level Calories & Caffeine
+Total calories and total caffeine per category are computed by summing across all menu items.
+
+We then calculate average calories and average caffeine for each category.
+
+A dual‑axis bar chart shows average calories on the left axis and average caffeine on the right.
+
+Only the right‑axis (average caffeine) bars are color‑coded—from light to deep red as caffeine increases.
+
+Finally, categories are sorted in descending order of average calories.
+
+2️⃣ Sugar vs. Calories Correlation
+A scatter plot examines the relationship between sugar content (x‑axis) and calories (y‑axis).
+
+Each mark’s size and color encode its caffeine level; opacity is lowered and a border added to improve readability.
+
+This reveals that while higher sugar generally corresponds to higher calories, calorie counts still vary significantly between items with similar sugar levels.
+
+
+![image](https://github.com/user-attachments/assets/a6b9493f-fe5a-4c12-8936-5eeec05e2177)
+
+3️⃣ Menu‑Level Calories & Caffeine Treemap
+Uses a treemap to display every menu item’s calories and caffeine in a hierarchical layout.
+
+Rectangle size reflects calories and color intensity reflects caffeine.
+
+Because Tableau aggregates measures according to the dimensions in view, we visualize each item’s raw calorie and caffeine values (no further averaging).
+
+4️⃣ Combined Category & Menu View
+Brings together the “Category‑Level” and “Menu‑Level” sheets into a single consolidated view for side‑by‑side comparison.
+
+
+
+![image](https://github.com/user-attachments/assets/c0e066ef-5b21-4ddb-b333-7fc951b383b1)
+
+5️⃣ Store Distribution Map
+Maps every Starbucks location in Korea by city/district.
+
+Marker size and color indicate the number of stores (calculated by counting unique store codes).
+
+Highlights which districts have the highest concentration of Starbucks outlets.
