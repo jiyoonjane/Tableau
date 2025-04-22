@@ -44,6 +44,7 @@ This repository contains a Tableau workbook that investigates where and when our
   # Starbucks Korea Menu & Store Dashboard
 This Tableau dashboard combines nutritional analysis of Starbucks products with a geographic overview of store distribution in South Korea.
 
+[Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/StarbucksCategoryNutritionDashboardAverageCaloriesCaffeinewithSugarCalorieComparison/sheet4?publish=yes)
 ![image](https://github.com/user-attachments/assets/75c3cf19-06d6-4707-b7ca-42f448d295e5)
 
 1️⃣ Category‑Level Calories & Caffeine
