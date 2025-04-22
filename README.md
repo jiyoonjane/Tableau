@@ -3,7 +3,7 @@
 
 This repository contains a Tableau workbook that investigates where and when our company is encountering profit shortfalls, and which products and regions are underperforming in sales and margins.
 
----
+[Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/_17452201366720/1?publish=yes)
 ![image](https://github.com/user-attachments/assets/af3be3d4-3a73-47c8-8c12-32d6952bcbeb)
 
 
