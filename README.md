@@ -65,6 +65,8 @@ Each mark’s size and color encode its caffeine level; opacity is lowered and a
 
 This reveals that while higher sugar generally corresponds to higher calories, calorie counts still vary significantly between items with similar sugar levels.
 
+
+
 [Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/StarbucksMenuDashboardCaloriesCaffeinebyItem/sheet1?publish=yes)
 ![image](https://github.com/user-attachments/assets/a6b9493f-fe5a-4c12-8936-5eeec05e2177)
 
@@ -77,6 +79,7 @@ Because Tableau aggregates measures according to the dimensions in view, we visu
 
 4️⃣ Combined Category & Menu View
 Brings together the “Category‑Level” and “Menu‑Level” sheets into a single consolidated view for side‑by‑side comparison.
+
 
 
 [Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/StarbucksinSouthKorea/sheet3?publish=yes)
