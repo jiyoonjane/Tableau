@@ -140,7 +140,8 @@ Highlights which districts have the highest concentration of Starbucks outlets.
 
 
 [Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/YearlyMinimumandMaximumPriceDifferences/sheet2?publish=yes)
-![image](https://github.com/user-attachments/assets/07fae268-ef9d-4e8b-bc1b-924017f23f03)
+![image](https://github.com/user-attachments/assets/f331e876-e7e2-4328-9991-c57c4a33e53d)
+
 
 
 
