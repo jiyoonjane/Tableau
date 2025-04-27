@@ -119,3 +119,28 @@ Highlights which districts have the highest concentration of Starbucks outlets.
 
 8️⃣ Menu‑level comparison of caffeine content against an 80 mg threshold – classify each item as above or below 80 mg.
 
+
+
+
+[Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/_17457549508380/sheet0?publish=yes)
+![image](https://github.com/user-attachments/assets/58d6049f-0b79-46f7-b157-3b96a72a56a5)
+
+
+[Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/_17457552696150/4?publish=yes)
+![image](https://github.com/user-attachments/assets/98e54ba7-7c7f-4554-9b17-e46b2ef39941)
+
+
+
+
+
+
+[Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/BigMacPriceComparisonbyCountry/sheet1?publish=yes)
+![image](https://github.com/user-attachments/assets/fe9fb346-8888-4611-add0-e79334eff561)
+
+
+
+[Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/YearlyMinimumandMaximumPriceDifferences/sheet2?publish=yes)
+![image](https://github.com/user-attachments/assets/07fae268-ef9d-4e8b-bc1b-924017f23f03)
+
+
+
