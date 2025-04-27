@@ -1,7 +1,7 @@
 # KR Tableau project
 # Company Sales & Profit Dashboard (Tableau)
 
-This repository contains a Tableau workbook that investigates where and when our company is encountering profit shortfalls, and which products and regions are underperforming in sales and margins.
+This repository contains KR Tableau Bootcamp Dashboards: Profit shortfalls, Starbucks Korea metrics, calories & caffeine treemap, category vs menu view, monthly PM₂.₅ trends, and Big Mac Index comparison.
 
 [Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/_17452201366720/1?publish=yes)
 ![image](https://github.com/user-attachments/assets/af3be3d4-3a73-47c8-8c12-32d6952bcbeb)
