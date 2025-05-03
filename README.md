@@ -3,6 +3,29 @@
 
 This repository contains KR Tableau Bootcamp Dashboards: Profit shortfalls, Starbucks Korea metrics, calories & caffeine treemap, category vs menu view, monthly PM₂.₅ trends, and Big Mac Index comparison.
 
+[Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/ProfitDashboard_17462527367230/sheet0?publish=yes)
+![image](https://github.com/user-attachments/assets/6ef0eb06-aae7-4624-82db-51a27d5aad6c)
+
+
+I’ve created a Superstore overview dashboard that includes:
+
+1. Monthly Sales Trend 2. Sales by Region 3. Sales by Manager 4. Product-level Sales 5. Profit Overview 6. Customer Order Count Distribution
+
+This dashboard was designed and built according to the following ten best practices:
+
+- Clarify the Dashboard’s Objective
+- Select the Right Visualization Types
+- Use Color Meaningfully
+- Utilize BANs
+- Craft Precise Chart Titles
+- Optimize Spatial Layout (effective content arrangement)
+- Add User Guidance
+- Enable Interactive Elements
+- Fix Dashboard Dimensions
+- Apply Thoughtful Padding
+
+
+
 [Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/_17452201366720/1?publish=yes)
 ![image](https://github.com/user-attachments/assets/af3be3d4-3a73-47c8-8c12-32d6952bcbeb)
 
