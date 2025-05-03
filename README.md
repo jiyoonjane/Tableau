@@ -3,6 +3,7 @@
 
 This repository contains KR Tableau Bootcamp Dashboards: Profit shortfalls, Starbucks Korea metrics, calories & caffeine treemap, category vs menu view, monthly PM₂.₅ trends, and Big Mac Index comparison.
 
+
 [Dashboard link on Tableau Public](https://public.tableau.com/app/profile/jiyoon.shin1127/viz/ProfitDashboard_17462527367230/sheet0?publish=yes)
 ![image](https://github.com/user-attachments/assets/6ef0eb06-aae7-4624-82db-51a27d5aad6c)
 
@@ -23,6 +24,9 @@ This dashboard was designed and built according to the following ten best practi
 - Enable Interactive Elements
 - Fix Dashboard Dimensions
 - Apply Thoughtful Padding
+
+
+
 
 
 
